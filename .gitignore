@@ -1,0 +1,5 @@
+#raw data(ignore original dataset)
+data/raw/
+
+#jupyter
+.ipynb_checkpoints/
